@@ -28,7 +28,7 @@ This was my first attempt at a responsive build and I didn't approach it with th
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [https://onemanbanned.github.io/Stats-Card/](https://onemanbanned.github.io/Stats-Card/)
 - Frontend Mentor - [@OneManBanned](https://www.frontendmentor.io/profile/OneManBanned)
 
 
